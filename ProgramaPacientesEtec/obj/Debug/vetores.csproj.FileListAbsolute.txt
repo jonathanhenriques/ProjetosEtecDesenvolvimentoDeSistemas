@@ -1,0 +1,14 @@
+C:\Users\Tecnico\Desktop\vetores\vetores\bin\Debug\vetores.exe.config
+C:\Users\Tecnico\Desktop\vetores\vetores\bin\Debug\vetores.exe
+C:\Users\Tecnico\Desktop\vetores\vetores\bin\Debug\vetores.pdb
+C:\Users\Tecnico\Desktop\vetores\vetores\obj\Debug\vetores.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\vetores\vetores\obj\Debug\vetores.exe
+C:\Users\Tecnico\Desktop\vetores\vetores\obj\Debug\vetores.pdb
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\bin\Debug\vetores.exe.config
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\bin\Debug\vetores.exe
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\bin\Debug\vetores.pdb
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\obj\Debug\vetores.csproj.AssemblyReference.cache
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\obj\Debug\vetores.csproj.SuggestedBindingRedirects.cache
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\obj\Debug\vetores.exe
+D:\Etec_DS\2_semestre\desDeSis_c#\ProgramaPacientesEtec\obj\Debug\vetores.pdb

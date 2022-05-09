@@ -1,0 +1,8 @@
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\obj\Debug\loja_desDeSis_jonathan.csproj.AssemblyReference.cache
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\obj\Debug\loja_desDeSis_jonathan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\obj\Debug\loja_desDeSis_jonathan.csproj.CoreCompileInputs.cache
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\bin\Debug\loja_desDeSis_jonathan.exe.config
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\bin\Debug\loja_desDeSis_jonathan.exe
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\bin\Debug\loja_desDeSis_jonathan.pdb
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\obj\Debug\loja_desDeSis_jonathan.exe
+C:\Users\hsjon\source\repos\loja_desDeSis_jonathan\loja_desDeSis_jonathan\obj\Debug\loja_desDeSis_jonathan.pdb
